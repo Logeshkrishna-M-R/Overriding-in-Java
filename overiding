@@ -50,4 +50,4 @@ class Main {
 		System.out.print("Clerk's salary : ");
 		printSalary(obj2);
 	}
-}
+
