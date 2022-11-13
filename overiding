@@ -51,4 +51,4 @@ class Main {
 		printSalary(obj2);
 	}
 
-}
+
